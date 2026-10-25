@@ -1,0 +1,11 @@
+2026-10-25 07:55:11,495 INFO Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Can not load face (unknown file format; error code 0x2)
+2026-10-25 07:55:11,762 INFO Failed to extract font properties from /usr/share/fonts/opentype/cantarell/Cantarell-VF.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2026-10-25 07:55:11,955 INFO generated new fontManager
+2026-10-25 07:55:12,329 INFO Demo completed successfully
+2026-10-25 07:55:32,809 INFO Demo completed successfully
+2026-10-25 08:41:56,387 WARNING matplotlib unavailable; chart generation skipped.
+2026-10-25 08:41:56,393 INFO Demo completed successfully
+2026-10-25 08:52:17,184 INFO Ran FCFS
+2026-10-25 08:53:43,015 INFO generated new fontManager
+2026-10-25 08:53:45,725 INFO Demo completed successfully
+2026-10-25 09:03:26,079 INFO Ran Priority (preemptive; lower number = higher priority)

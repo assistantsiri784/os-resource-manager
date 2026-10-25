@@ -1,0 +1,5 @@
+pid,arrival,burst,priority,memory
+P1,0,7,2,100
+P2,1,4,1,200
+P3,2,1,3,150
+P4,3,5,2,120

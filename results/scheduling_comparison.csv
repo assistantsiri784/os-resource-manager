@@ -1,0 +1,6 @@
+algorithm,avg_waiting,avg_turnaround,avg_response
+FCFS,6.0,10.25,6.0
+SJF (non-preemptive),5.25,9.5,5.25
+SRTF,3.5,7.75,0.75
+Priority (preemptive; lower number = higher priority),6.5,10.75,5.5
+Round Robin (q=2),6.5,10.75,1.75
